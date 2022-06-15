@@ -64,3 +64,13 @@ a:nth-child(3) {
 .form-label {
     padding-bottom: 12px;
 }
+
+.input:nth-child(2) {
+    margin-bottom: 15px;
+}
+
+.form-down {
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: lighter;
+}
