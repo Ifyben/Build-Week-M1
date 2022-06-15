@@ -31,6 +31,7 @@ body {
     font-weight: bold;
 }
 
+
 a {
     text-align: center;
     text-transform: uppercase;
@@ -46,6 +47,24 @@ a {
     width: 400px;
     color: #757070;
 }
+
+.logbutton button {
+    background-color:rgb(74, 172, 74);
+    color: black;
+    width: 435px;
+    border-width: 1px;
+    border-radius: 20px;
+    padding: 12px;
+    font-size: large;
+    margin-bottom: 1rem;
+}
+
+/*p:nth-child(2){
+    letter-spacing: 2px;
+    font-size: 15px;
+    
+    border-style: solid;
+}*/
 
 a:nth-child(2) {
     background-color: rgb(59, 89, 152);
@@ -73,4 +92,14 @@ a:nth-child(3) {
     cursor: pointer;
     font-size: 15px;
     font-weight: lighter;
+}
+
+.form-down button {
+    background-color: white 
+    color: black;
+    width: 435px;
+    border-width: 1px;
+    border-radius: 20px;
+    padding: 12px;
+    font-size: large;
 }
