@@ -13,3 +13,11 @@ body {
     display: grid;
     place-items: center;
 }
+
+.head-style {
+    display: grid;
+    place-items: center;
+    border: 1px;
+    border-bottom-style: solid;
+    border-color: #e2e8f0;
+}
