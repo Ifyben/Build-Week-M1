@@ -39,4 +39,15 @@ a {
     border-color: #cbd5e0;
     border-width: 1px;
     border-style: solid;
+    border-radius: 20px;
+    padding: 12px;
+    text-decoration: none;
+    margin-bottom: 0.5rem;
+    width: 400px;
+    color: #757070;
+}
+
+a:nth-child(2) {
+    background-color: rgb(59, 89, 152);
+    color: white;
 }
