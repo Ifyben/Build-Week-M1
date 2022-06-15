@@ -4,3 +4,12 @@
     --bg: white;
     --txt: black;
 }
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.center {
+    display: grid;
+    place-items: center;
+}
