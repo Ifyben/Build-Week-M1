@@ -21,3 +21,22 @@ body {
     border-bottom-style: solid;
     border-color: #e2e8f0;
 }
+
+.svg-class {
+    width: 200px;
+    height: 85px;
+}
+
+.center .cont {
+    font-weight: bold;
+}
+
+a {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 15px;
+    border-color: #cbd5e0;
+    border-width: 1px;
+    border-style: solid;
+}
