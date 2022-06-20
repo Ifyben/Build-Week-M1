@@ -12,6 +12,7 @@ body {
 
 nav {
     font-family: 'Ubuntu', sans-serif;
+    background-color: black;
 }
 
 nav ul {
@@ -19,7 +20,7 @@ nav ul {
     align-items: center;
     list-style-type: none;
     height: 65px;
-    background-color: black;
+   
     color: white; 
 }
 
@@ -30,6 +31,8 @@ nav ul li {
 .brand img {
     width: 44px;
     padding: 0 8px;
+   background: black;
+    background-color: transparent;
 }
 
 .brand {
@@ -37,4 +40,7 @@ nav ul li {
     align-items: center;
     font-weight: bolder;
     font-size: 1.3rem;
+}
+.i {
+  /* a */
 }
