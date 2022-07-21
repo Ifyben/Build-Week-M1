@@ -8,6 +8,32 @@ body {
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+}
+
+.sidenav {
+    height: 100%;
+    width: 20%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    display: block;
+}
+
+.main {
+    margin-left: 160px;
+    padding: 0px 10px;
 }
 
 nav {
@@ -44,3 +70,4 @@ nav ul li {
 .i {
   /* a */
 }
+
